@@ -18,7 +18,7 @@ class OTPPage extends StatelessWidget {
               style: TextStyle(fontSize: 18.0),
             ),
                Image.network(
-  'https://img.freepik.com/free-vector/login-concept-illustration_114360-739.jpg', // Replace with your image URL
+  'https://media.istockphoto.com/id/1281150061/vector/register-account-submit-access-login-password-username-internet-online-website-concept.jpg?s=612x612&w=0&k=20&c=9HWSuA9IaU4o-CK6fALBS5eaO1ubnsM08EOYwgbwGBo=', // Replace with your image URL
   width: 200,
   height: 200,
 ),
