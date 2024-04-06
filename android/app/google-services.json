@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "435494500035",
+    "project_id": "crudnew-ed2ce",
+    "storage_bucket": "crudnew-ed2ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435494500035:android:808c8ed9d7cef35d4dd476",
+        "android_client_info": {
+          "package_name": "com.example.crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNQhD4cPtvRTk4UTIZmxTeQBrLoL9jnvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
